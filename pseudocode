@@ -7,15 +7,28 @@ function distanceBetweenNodes(node1,node2)
 function speed()
   get speed
   return speed
-function estimatedTime(distanceNodes,speed)
+function estimatedTime(gpsPosition,customerNode,speed)
   estimatedTime = distanceNodes / speed
-setCost()
+function setCost()
  get cost
  Conf.cost = cost
-setCostThreshold()
+function setCostThreshold()
  get costThreshold
  Conf.costThreshold = costThreshold
-setNumberofSeats
+function setNumberofSeats
   get numberOfSeats
   Conf.numberOfSeats = numberOfSeats
- 
+function setPassengerNode(currentGPSPosition,nodePositons)
+   compare currentGPSPostion to nodePositions
+   if match passengerNode = nodePosition
+   else passengerNode = false
+function setDestination()
+   get destination
+function nodeCrossing()
+  store intersection of nodes between startGpsPosition and destination nodes
+Dictionary nodes
+  must contain names
+  gps positions
+  map and reduce 
+
+  
