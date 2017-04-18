@@ -1,0 +1,21 @@
+function currentGPSPosition()
+  get gps position
+  return gps position
+function distanceBetweenNodes(node1,node2)
+  distanceNodes = abs(node2 - node1)
+  return distanceNodes
+function speed()
+  get speed
+  return speed
+function estimatedTime(distanceNodes,speed)
+  estimatedTime = distanceNodes / speed
+setCost()
+ get cost
+ Conf.cost = cost
+setCostThreshold()
+ get costThreshold
+ Conf.costThreshold = costThreshold
+setNumberofSeats
+  get numberOfSeats
+  Conf.numberOfSeats = numberOfSeats
+ 
