@@ -1,0 +1,16 @@
+Packages needed for App in android
+Android Location package
+https://developer.android.com/reference/android/location/package-summary.html
+Java Time Package
+https://developer.android.com/distribute/index.html
+Java Crypto Package
+https://developer.android.com/reference/javax/crypto/package-summary.html
+Android Math Package
+https://developer.android.com/reference/android/icu/math/package-summary.html
+Android SQlite Package
+https://developer.android.com/reference/android/database/sqlite/package-summary.html
+
+Read over general android development cycle
+
+Intents
+Notifications 
